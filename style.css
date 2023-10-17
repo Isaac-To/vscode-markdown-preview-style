@@ -3,6 +3,10 @@
 }
 body {
   background-color: white;
+  color: black;
+}
+a {
+  color: blue;
 }
 .base {
   margin-top: 1vh;
