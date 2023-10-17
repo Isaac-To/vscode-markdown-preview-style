@@ -1,9 +1,13 @@
 * {
   font-family: "Times New Roman", Times, serif;
 }
-body {
+.vscode-light {
   background-color: white;
   color: black;
+}
+.vscode-dark {
+  background-color: black;
+  color: white;
 }
 a {
   color: blue;
