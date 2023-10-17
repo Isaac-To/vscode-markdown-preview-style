@@ -10,4 +10,4 @@ Add to your install:
 ```
 https://isaac-to.github.io/vscode-markdown-preview-style/style.css
 ```
-1. Reload VS Code and enjoy!
+3. Reload VS Code and enjoy!
