@@ -1,12 +1,12 @@
 * {
-  font-family: "Times New Roman", Times, serif;
+  font-family: "Cambria", "Times New Roman", Times, serif;
 }
 .vscode-light {
-  background-color: white;
+  /* background-color: white; */
   color: black;
 }
 .vscode-dark {
-  background-color: black;
+  /* background-color: black; */
   color: white;
 }
 a {
